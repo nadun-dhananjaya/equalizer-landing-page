@@ -8,4 +8,4 @@ Equalizer - We make your music sound extraordinary
 
 ## How to Explore
 
-1. Visit the [Equalizer - We make your music sound extraordinary](https://yellow-blog-card.netlify.app/).
+1. Visit the [Equalizer - We make your music sound extraordinary](https://equlizer-by-zynthium.netlify.app/).
